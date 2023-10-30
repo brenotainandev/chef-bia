@@ -1,0 +1,10 @@
+{
+  "nome": "Bia",
+  "acoes": {
+    "pesquisar receitas": ["pesquisar receitas", "encontrar receitas", "mostrar receitas"],
+    "obter instruções de preparo": ["instruções de preparo", "como preparar"],
+    "listar ingredientes": ["listar ingredientes", "ingredientes"],
+    "gerar receitas aleatórias": ["receitas aleatórias", "uma receita"],
+    "encerrar": ["encerrar", "finalizar", "fechar", "sair"]
+  }
+}
